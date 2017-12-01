@@ -1,6 +1,6 @@
 # 16SegDisplayDecoder
 
-Created by Aditya Vidyadharan
+Created by Aditya Vidyadharan and Mehraaj Tawa 
 
 Edit .pld file using WINCUPL and program PLD with .jed file using Wellon
 
